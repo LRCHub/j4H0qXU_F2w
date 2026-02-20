@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "三月のパンタシア 『逆さまのLady』",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-20T10:19:06.546217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "逆さまのLady",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/01_逆さまのLady_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "逆さまのLady",
+      "artist": "Sangatsu no Phantasia (三月のパンタシア)",
+      "has_synced": true,
+      "path": "select/02_逆さまのLady_Sangatsu_no_Phantasia_(三月のパンタシア).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆さまのLady",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_逆さまのLady_三月のパンタシア.txt"
+    }
+  ]
+}
